@@ -1,0 +1,4 @@
+<!--pages/guodu/guodu.wxml-->
+<view >
+     <image mode="widthFix" src='/image/welcome4.jpg' class='img1'></image>
+</view>

@@ -1,0 +1,12 @@
+<view >
+  <image mode="widthFix" src='/image/welcome1.jpg' class='img'>
+  <image class='click-button'  bindtap='click' src="/image/click.jpg"></image> 
+  </image>
+</view>
+
+
+ 
+
+
+
+

@@ -1,0 +1,18 @@
+{
+  "pages": ["pages/starroad/starroad",
+    "pages/welcome/welcome",
+    "pages/guodu/guodu",
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/detail/detail"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#DCDCDC",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

@@ -1,0 +1,35 @@
+/* pages/starroad/starroad.wxss */
+.swiper{
+  height:85vh;
+}
+.star-card{
+  height:100%;
+  width: 100%;
+  background-color: #DCDCDC;
+  margin:0 20rpx;
+  border-radius:50rpx 100rpx 100rpx 50rpx;
+  margin-top:10rpx;
+}
+.slide-image{
+  position: relative;
+  height:100%;
+  width: 97%;
+  display:flex;
+  align-items:center;
+  justify-content: center;
+  border-radius: 50rpx 50rpx 50rpx 50rpx ;
+}
+
+.check-button{
+  position: absolute;
+  height: 20px;
+  width: 40px;
+  right:215px;
+  top: 20px;
+  font-size: 20rpx;
+}
+
+
+ 
+
+ 
